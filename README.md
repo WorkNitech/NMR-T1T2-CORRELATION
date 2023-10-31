@@ -13,7 +13,7 @@ NMRのT1-T2相関測定に関するプロジェクト
 
 ## Documentation
 - [Design Document](./DesignDocument.md): プロジェクトの設計に関するドキュメントです。
-- [Issues]([https://github.com/your-repo/NMR-T1T2-Correlation/issues](https://github.com/WorkNitech/NMR-T1T2-Correlation/issues)): プロジェクトの進行状況や課題についての情報です。
+- [Issues](https://github.com/WorkNitech/NMR-T1T2-Correlation/issues): プロジェクトの進行状況や課題についての情報です。
 
 ## Contributing
 このプロジェクトへの貢献やフィードバックは、IssueやPull Requestを通じてお知らせください。
