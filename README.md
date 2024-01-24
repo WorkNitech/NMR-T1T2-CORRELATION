@@ -1,4 +1,4 @@
-# NMR-T1T2-Correlation
+# NMR-T1T2-CORRELATION
 NMRのT1-T2相関測定に関するプロジェクト
 ## Overview
 このリポジトリは、NMR（核磁気共鳴）のT1-T2相関測定を行うためのプログラムの開発に関するプロジェクトです。T1測定（Inversion Recovery法）とT2測定（CPMG法）のプログラムを組み合わせて、T1-T2相関測定を実現します。このプログラムは、Brukerの装置に対応したExpspell言語で実装されます。
