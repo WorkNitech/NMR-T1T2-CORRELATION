@@ -1,3 +1,4 @@
+# nmr_t1-t2（元のリポジトリ名）
 # NMR-T1T2-CORRELATION
 NMRのT1-T2相関測定に関するプロジェクト
 ## Overview
